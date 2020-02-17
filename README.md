@@ -1,4 +1,5 @@
-# arguments_optional
+# Arguments Optional
+
 An intermediate algorithm from freeCodeCamp.org
 
 ## Instructions
